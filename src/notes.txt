@@ -1,0 +1,24 @@
+use higher order component to wrap headers with each page
+
+
+
+useRef for focusing form inputs
+https://www.youtube.com/watch?v=t-e4qM2_Mvo&list=PL_euSNU_eLbfuahgrm63xLCWfpl2MaTAr&index=22
+
+
+
+use HashRouter instead of BrowserRouter
+
+
+compare old and new values in useEffect
+https://stackoverflow.com/questions/53446020/how-to-compare-oldvalues-and-newvalues-on-react-hooks-useeffect
+
+
+/*
+for autologout 
+https://www.youtube.com/watch?v=ocMDaaWr-NE
+
+https://www.youtube.com/channel/UCQlv7pYgXgXSXGxXFZF7p7Q/playlists
+custom pizza
+https://www.youtube.com/channel/UCQlv7pYgXgXSXGxXFZF7p7Q
+*/
